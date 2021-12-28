@@ -2,4 +2,4 @@
 
 
 [Quote Generator](https://simple-sifu.github.io/quote-generator/)
-[infinite scroll](/)
+[infinite scroll](https://simple-sifu.github.io/infinite-scroll/)
