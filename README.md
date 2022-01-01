@@ -6,3 +6,5 @@
 [Infinite scroll](https://simple-sifu.github.io/infinite-scroll/)
 
 [Picture in Picture](https://simple-sifu.github.io/picture-in-picture/)
+
+[Joke Teller](https://simple-sifu.github.io/joke-teller/)
